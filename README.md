@@ -44,5 +44,15 @@ The analysis utilizes four distinct primary data streams:
 *   **Language:** Python 3.x
 *   **Libraries:** `pandas`, `numpy`, `yfinance`, `statsmodels`, `scikit-learn`, `seaborn`, `plotly`, `kagglehub`.
 
+## 7. Media & Additional Resources
+
+### Project Evolution Visualization (Gource)
+A 20-second high-definition (720p) time-lapse representing the repository's structural growth and commit history.
+![Project Timeline Visualization](./Additional%20resources/gource_project_visualization.mp4)
+
+### Statistical Framework & Integrated Insights
+A comprehensive visual synthesis of the multi-source data integration and the finalized statistical model results.
+![Statistical Synthesis](./Additional%20resources/README-merged-image.png)
+
 ---
 *Created as part of the SoftUni Data Science Program (2026).*
