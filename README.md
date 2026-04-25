@@ -47,11 +47,13 @@ The analysis utilizes four distinct primary data streams:
 ## 7. Media & Additional Resources
 
 ### Project Evolution Visualization (Gource)
-A 20-second high-definition (720p) time-lapse representing the repository's structural growth and commit history.
-![Project Timeline Visualization](./Additional%20resources/gource_project_visualization.mp4)
+A 20-second time-lapse representing the repository's structural growth and commit history.
+
+![Project Timeline Visualization](./Additional%20resources/gource_project_visualization.gif)
 
 ### Statistical Framework & Integrated Insights
 A comprehensive visual synthesis of the multi-source data integration and the finalized statistical model results.
+
 ![Statistical Synthesis](./Additional%20resources/README-merged-image.png)
 
 ---
